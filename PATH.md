@@ -1,8 +1,8 @@
 ### Computer Science Core
 
 - [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/)
-- [Git](https://www.youtube.com/watch?v=cspx7YSvp5Q) / [GitHub](https://docs.github.com/pt/get-started/start-your-journey/hello-world)
-- [Docker](https://simplesteps.guide/guides/technology/servers-deployments/docker-overview-and-how-to-use-it/what-is-docker)
+- [Git](https://www.youtube.com/watch?v=cspx7YSvp5Q) / [GitHub](https://docs.github.com/pt/get-started/start-your-journey/hello-world) / [Docker](https://simplesteps.guide/guides/technology/servers-deployments/docker-overview-and-how-to-use-it/what-is-docker)
+- [LeetCode](https://leetcode.com/problem-list/oizxjoit/)
 
 ### Web Development
 
