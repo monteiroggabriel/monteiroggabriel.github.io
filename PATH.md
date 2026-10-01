@@ -11,3 +11,7 @@
 - [Java Programming](https://java-programming.mooc.fi/)
 - [Spring Academy](https://spring.academy/courses)
 - [Design Patterns](https://refactoring.guru/design-patterns/catalog)
+
+### Game Development
+- [Love2D](https://love2d.org/)
+- [Godot](https://docs.godotengine.org/en/stable/getting_started/introduction/index.html)
